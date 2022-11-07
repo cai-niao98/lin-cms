@@ -1,4 +1,4 @@
-# lin-cms
+# CVE-2022-44244
 1. Use the root/123456 administrator account to obtain the token through the demo station
 ![image](https://user-images.githubusercontent.com/52815221/197131353-9e873278-2230-4728-aa49-d20ada88bb75.png)
 ![image](https://user-images.githubusercontent.com/52815221/197131426-f281b68e-30f0-453d-b695-3312350fe535.png)
